@@ -1,0 +1,33 @@
+url: https://ys-salon.github.io
+baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: Y's salon
+email: r_y0402@yahoo.co.jp
+description: ""
+
+
+# Team names, titles and social links
+people:
+- name: 櫻井　佑
+  pic: 1
+  position: #
+  social:
+    - title: instagram
+      url: https://www.instagram.com/ys_salon_/
+
+- name: 井筒　理沙
+  pic: 2
+  position:
+  social:
+    - title: instagram
+      url: https://www.instagram.com/ys_salon_/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 〒305-0816
+  - line: 茨城県つくば市学園の森３丁目１６−7
+
+# Build settings
+markdown: kramdown
+permalink: pretty

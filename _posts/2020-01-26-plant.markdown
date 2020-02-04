@@ -1,0 +1,17 @@
+---
+title: ""
+subtitle: 
+layout: default
+modal-id: 6
+date: 2020-01-27~~~~
+img: 6.jpeg
+thumbnail: 6.jpeg
+alt: image-alt
+project-date: January 2020
+client: 
+category: gallery
+description: 
+
+---
+
+
