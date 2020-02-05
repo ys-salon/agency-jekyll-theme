@@ -6,7 +6,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Varela Round", "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
@@ -57,7 +57,7 @@ h4,
 h5,
 h6 {
     text-transform: uppercase;
-    font-family: {{ site.data.template.font.primary }};
+    font-family: {{ site.data.template.font.third }};
     font-weight: 700;
 }
 
@@ -211,7 +211,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .nav li a {
     text-transform: uppercase;
-    font-family: {{ site.data.template.font.primary }};
+    font-family: {{ site.data.template.font.third }};
     font-weight: 400;
     letter-spacing: 1px;
     color: #fff;
@@ -271,7 +271,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #333;
+    color: #fff;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/portfolio/5.jpeg');
     background-position: center center;
@@ -289,7 +289,7 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    font-family: {{ site.data.template.font.secondary }};
+    font-family: {{ site.data.template.font.third }};
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
